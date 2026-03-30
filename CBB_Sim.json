@@ -345,27 +345,169 @@
       "tier": "Non-Power"
     },
     {
-      "conferencePrestige" : 80,
-      "name" : "American Conference",
-      "protectedPairs" : [
-
-      ],
-      "requiredConferenceGames" : 18,
-      "teams" : [
+      "conferencePrestige": 68,
+      "name": "American Athletic Conference",
+      "protectedPairs": [],
+      "requiredConferenceGames": 18,
+      "tier": "Power-Group",
+      "teams": [
         {
-          "abbreviation" : "NT",
-          "defenseScheme" : "Man-to-Man",
-          "mascot" : "Warriors",
-          "name" : "New Team",
-          "offenseScheme" : "motion",
-          "prestige" : 25,
-          "primary" : "#FF0000",
-          "region" : "Midwest",
-          "secondary" : "#FFFFFF",
-          "tertiary" : "#000000"
+          "abbreviation": "CHA",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "49ers",
+          "name": "Charlotte",
+          "offenseScheme": "motion",
+          "prestige": 65,
+          "primary": "#00703C",
+          "region": "South",
+          "secondary": "#C8102E",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "ECU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Pirates",
+          "name": "East Carolina",
+          "offenseScheme": "motion",
+          "prestige": 55,
+          "primary": "#4B1F6F",
+          "region": "South",
+          "secondary": "#A5ACAF",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "FAU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Owls",
+          "name": "Florida Atlantic",
+          "offenseScheme": "motion",
+          "prestige": 70,
+          "primary": "#003366",
+          "region": "South",
+          "secondary": "#C8102E",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "MEM",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Tigers",
+          "name": "Memphis",
+          "offenseScheme": "uptempo",
+          "prestige": 72,
+          "primary": "#0C2340",
+          "region": "South",
+          "secondary": "#C8102E",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "UNT",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Mean Green",
+          "name": "North Texas",
+          "offenseScheme": "motion",
+          "prestige": 68,
+          "primary": "#006847",
+          "region": "South",
+          "secondary": "#F2D100",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "RICE",
+          "defenseScheme": "2-3 Zone",
+          "mascot": "Owls",
+          "name": "Rice",
+          "offenseScheme": "motion",
+          "prestige": 55,
+          "primary": "#990000",
+          "region": "South",
+          "secondary": "#000000",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "USF",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bulls",
+          "name": "South Florida",
+          "offenseScheme": "uptempo",
+          "prestige": 88,
+          "primary": "#006747",
+          "region": "South",
+          "secondary": "#C6AA3A",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "TEM",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Owls",
+          "name": "Temple",
+          "offenseScheme": "motion",
+          "prestige": 65,
+          "primary": "#9E1B32",
+          "region": "Northeast",
+          "secondary": "#000000",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "TUL",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Green Wave",
+          "name": "Tulane",
+          "offenseScheme": "motion",
+          "prestige": 70,
+          "primary": "#002A5C",
+          "region": "South",
+          "secondary": "#A5ACAF",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "TULS",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Golden Hurricane",
+          "name": "Tulsa",
+          "offenseScheme": "uptempo",
+          "prestige": 82,
+          "primary": "#002F6C",
+          "region": "South",
+          "secondary": "#FFC72C",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "UAB",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Blazers",
+          "name": "UAB",
+          "offenseScheme": "motion",
+          "prestige": 72,
+          "primary": "#007A33",
+          "region": "South",
+          "secondary": "#FFC72C",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "UTSA",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Roadrunners",
+          "name": "UTSA",
+          "offenseScheme": "motion",
+          "prestige": 45,
+          "primary": "#003865",
+          "region": "South",
+          "secondary": "#C8102E",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "WICH",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Shockers",
+          "name": "Wichita State",
+          "offenseScheme": "motion",
+          "prestige": 82,
+          "primary": "#FFC72C",
+          "region": "Midwest",
+          "secondary": "#000000",
+          "tertiary": "#FFFFFF"
         }
-      ],
-      "tier" : "Non-Power"
+      ]
     },
     {
       "conferencePrestige" : 75,

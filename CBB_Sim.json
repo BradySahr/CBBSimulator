@@ -358,10 +358,10 @@
           "name": "Charlotte",
           "offenseScheme": "motion",
           "prestige": 65,
-          "primary": "#00703C",
+          "primary": "#046A38",
           "region": "South",
-          "secondary": "#C8102E",
-          "tertiary": "#FFFFFF"
+          "secondary": "#B9975B",
+          "tertiary": "#272251F"
         },
         {
           "abbreviation": "ECU",
@@ -370,10 +370,10 @@
           "name": "East Carolina",
           "offenseScheme": "motion",
           "prestige": 55,
-          "primary": "#4B1F6F",
+          "primary": "#592A8A",
           "region": "South",
-          "secondary": "#A5ACAF",
-          "tertiary": "#FFFFFF"
+          "secondary": "#FDC82F",
+          "tertiary": "#FFFFFFF"
         },
         {
           "abbreviation": "FAU",
@@ -384,8 +384,8 @@
           "prestige": 70,
           "primary": "#003366",
           "region": "South",
-          "secondary": "#C8102E",
-          "tertiary": "#FFFFFF"
+          "secondary": "#CC00000",
+          "tertiary": "#8A8D8F"
         },
         {
           "abbreviation": "MEM",
@@ -394,9 +394,9 @@
           "name": "Memphis",
           "offenseScheme": "uptempo",
           "prestige": 72,
-          "primary": "#0C2340",
+          "primary": "#003087",
           "region": "South",
-          "secondary": "#C8102E",
+          "secondary": "#898D8D",
           "tertiary": "#FFFFFF"
         },
         {
@@ -406,9 +406,9 @@
           "name": "North Texas",
           "offenseScheme": "motion",
           "prestige": 68,
-          "primary": "#006847",
+          "primary": "#00853E",
           "region": "South",
-          "secondary": "#F2D100",
+          "secondary": "#000000",
           "tertiary": "#FFFFFF"
         },
         {
@@ -418,9 +418,9 @@
           "name": "Rice",
           "offenseScheme": "motion",
           "prestige": 55,
-          "primary": "#990000",
+          "primary": "#00205B",
           "region": "South",
-          "secondary": "#000000",
+          "secondary": "#C1C6C8",
           "tertiary": "#FFFFFF"
         },
         {
@@ -432,7 +432,7 @@
           "prestige": 88,
           "primary": "#006747",
           "region": "South",
-          "secondary": "#C6AA3A",
+          "secondary": "#CFC493",
           "tertiary": "#FFFFFF"
         },
         {
@@ -442,7 +442,7 @@
           "name": "Temple",
           "offenseScheme": "motion",
           "prestige": 65,
-          "primary": "#9E1B32",
+          "primary": "#9D2235",
           "region": "Northeast",
           "secondary": "#000000",
           "tertiary": "#FFFFFF"
@@ -454,10 +454,10 @@
           "name": "Tulane",
           "offenseScheme": "motion",
           "prestige": 70,
-          "primary": "#002A5C",
+          "primary": "#006747",
           "region": "South",
-          "secondary": "#A5ACAF",
-          "tertiary": "#FFFFFF"
+          "secondary": "#43B02A",
+          "tertiary": "#418FDE"
         },
         {
           "abbreviation": "TULS",
@@ -466,10 +466,10 @@
           "name": "Tulsa",
           "offenseScheme": "uptempo",
           "prestige": 82,
-          "primary": "#002F6C",
+          "primary": "#002D72",
           "region": "South",
-          "secondary": "#FFC72C",
-          "tertiary": "#FFFFFF"
+          "secondary": "#C8102E",
+          "tertiary": "#C5B783"
         },
         {
           "abbreviation": "UAB",
@@ -478,10 +478,10 @@
           "name": "UAB",
           "offenseScheme": "motion",
           "prestige": 72,
-          "primary": "#007A33",
+          "primary": "#006341",
           "region": "South",
-          "secondary": "#FFC72C",
-          "tertiary": "#FFFFFF"
+          "secondary": "#CC8A00",
+          "tertiary": "#000000"
         },
         {
           "abbreviation": "UTSA",
@@ -490,9 +490,9 @@
           "name": "UTSA",
           "offenseScheme": "motion",
           "prestige": 45,
-          "primary": "#003865",
+          "primary": "#F15A22",
           "region": "South",
-          "secondary": "#C8102E",
+          "secondary": "#0C2340",
           "tertiary": "#FFFFFF"
         },
         {
@@ -502,7 +502,7 @@
           "name": "Wichita State",
           "offenseScheme": "motion",
           "prestige": 82,
-          "primary": "#FFC72C",
+          "primary": "#FFCD00",
           "region": "Midwest",
           "secondary": "#000000",
           "tertiary": "#FFFFFF"

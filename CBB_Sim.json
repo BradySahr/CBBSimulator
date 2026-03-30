@@ -1,0 +1,1015 @@
+{
+  "conferences" : [
+    {
+      "conferencePrestige" : 100,
+      "name" : "Atlantic Coast Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "BC",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Eagles",
+          "name" : "Boston College",
+          "offenseScheme" : "pickAndRoll",
+          "prestige" : 72,
+          "primary" : "#97002D",
+          "region" : "Midwest",
+          "secondary" : "#BB9A69",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "CAL",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Golden Bears",
+          "name" : "California",
+          "offenseScheme" : "motion",
+          "prestige" : 70,
+          "primary" : "#003161",
+          "region" : "Midwest",
+          "secondary" : "#FCB414",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "CLEM",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Tigers",
+          "name" : "Clemson",
+          "offenseScheme" : "motion",
+          "prestige" : 78,
+          "primary" : "#F46500",
+          "region" : "Midwest",
+          "secondary" : "#512C7F",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "DUKE",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Blue Devils",
+          "name" : "Duke",
+          "offenseScheme" : "motion",
+          "prestige" : 100,
+          "primary" : "#002F86",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "FSU",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Seminoles",
+          "name" : "Florida State",
+          "offenseScheme" : "motion",
+          "prestige" : 83,
+          "primary" : "#772E3F",
+          "region" : "Midwest",
+          "secondary" : "#CDB787",
+          "tertiary" : "#000000"
+        },
+        {
+          "abbreviation" : "GT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Yellow Jackets",
+          "name" : "Georgia Tech",
+          "offenseScheme" : "postUp",
+          "prestige" : 74,
+          "primary" : "#B2A268",
+          "region" : "Midwest",
+          "secondary" : "#002F56",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "LOU",
+          "defenseScheme" : "Full Court Press",
+          "mascot" : "Cardinals",
+          "name" : "Louisville",
+          "offenseScheme" : "motion",
+          "prestige" : 90,
+          "primary" : "#AC0000",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "U",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Hurricanes",
+          "name" : "Miami",
+          "offenseScheme" : "pickAndRoll",
+          "prestige" : 80,
+          "primary" : "#F37220",
+          "region" : "Midwest",
+          "secondary" : "#004F2F",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "NCST",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Wolfpack",
+          "name" : "NC State",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#CB0000",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "UNC",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Tar Heels",
+          "name" : "North Carolina",
+          "offenseScheme" : "uptempo",
+          "prestige" : 98,
+          "primary" : "#7AAED3",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#12284A"
+        },
+        {
+          "abbreviation" : "ND",
+          "defenseScheme" : "Matchup",
+          "mascot" : "Fighting Irish",
+          "name" : "Notre Dame",
+          "offenseScheme" : "motion",
+          "prestige" : 84,
+          "primary" : "#0B223F",
+          "region" : "Midwest",
+          "secondary" : "#C89600",
+          "tertiary" : "#00833C"
+        },
+        {
+          "abbreviation" : "PIT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Panthers",
+          "name" : "Pittsburgh",
+          "offenseScheme" : "postUp",
+          "prestige" : 82,
+          "primary" : "#003493",
+          "region" : "Midwest",
+          "secondary" : "#FFB71B",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "SMU",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Mustangs",
+          "name" : "Southern Methodist",
+          "offenseScheme" : "pickAndRoll",
+          "prestige" : 73,
+          "primary" : "#00329F",
+          "region" : "Midwest",
+          "secondary" : "#C70F2D",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "STAN",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Cardinal",
+          "name" : "Stanford",
+          "offenseScheme" : "princeton",
+          "prestige" : 77,
+          "primary" : "#8B1414",
+          "region" : "Midwest",
+          "secondary" : "#4C4E52",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "SYR",
+          "defenseScheme" : "2-3 Zone",
+          "mascot" : "Orange",
+          "name" : "Syracuse",
+          "offenseScheme" : "pickAndRoll",
+          "prestige" : 88,
+          "primary" : "#F66800",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000D53"
+        },
+        {
+          "abbreviation" : "UVA",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Cavaliers",
+          "name" : "Virginia",
+          "offenseScheme" : "motion",
+          "prestige" : 92,
+          "primary" : "#222C4A",
+          "region" : "Midwest",
+          "secondary" : "#F74B1D",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "VT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Hokies",
+          "name" : "Virginia Tech",
+          "offenseScheme" : "motion",
+          "prestige" : 76,
+          "primary" : "#620030",
+          "region" : "Midwest",
+          "secondary" : "#CE431F",
+          "tertiary" : "#FFFFFF"
+        },
+        {
+          "abbreviation" : "WAKE",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Demon Deacons",
+          "name" : "Wake Forest",
+          "offenseScheme" : "pickAndRoll",
+          "prestige" : 75,
+          "primary" : "#9D7D37",
+          "region" : "Midwest",
+          "secondary" : "#000000",
+          "tertiary" : "#FFFFFF"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferencePrestige": 45,
+      "name": "America East Conference",
+      "protectedPairs": [],
+      "requiredConferenceGames": 16,
+      "tier": "Non-Power",
+      "teams": [
+        {
+          "abbreviation": "UVM",
+          "name": "Vermont",
+          "mascot": "Catamounts",
+          "region": "Northeast",
+          "primary": "#154734",
+          "secondary": "#FFC72C",
+          "tertiary": "#FFFFFF",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 70
+        },
+        {
+          "abbreviation": "UML",
+          "name": "UMass Lowell",
+          "mascot": "River Hawks",
+          "region": "Northeast",
+          "primary": "#003DA5",
+          "secondary": "#C8102E",
+          "tertiary": "#FFFFFF",
+          "offenseScheme": "pickAndRoll",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 55
+        },
+        {
+          "abbreviation": "UNH",
+          "name": "New Hampshire",
+          "mascot": "Wildcats",
+          "region": "Northeast",
+          "primary": "#041E42",
+          "secondary": "#BBBCBC",
+          "tertiary": "#FFFFFF",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 50
+        },
+        {
+          "abbreviation": "UMBC",
+          "name": "Maryland-Baltimore County",
+          "mascot": "Retrievers",
+          "region": "Mid-Atlantic",
+          "primary": "#B18906",
+          "secondary": "#000000",
+          "tertiary": "#FFFFFF",
+          "offenseScheme": "uptempo",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 58
+        },
+        {
+          "abbreviation": "ALB",
+          "name": "Albany",
+          "mascot": "Great Danes",
+          "region": "Northeast",
+          "primary": "#461660",
+          "secondary": "#EEB211",
+          "tertiary": "#FFFFFF",
+          "offenseScheme": "pickAndRoll",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 60
+        },
+        {
+          "abbreviation": "BIN",
+          "name": "Binghamton",
+          "mascot": "Bearcats",
+          "region": "Northeast",
+          "primary": "#005A43",
+          "secondary": "#169B62",
+          "tertiary": "#000000",
+          "offenseScheme": "motion",
+          "defenseScheme": "2-3 Zone",
+          "prestige": 48
+        },
+        {
+          "abbreviation": "MAI",
+          "name": "Maine",
+          "mascot": "Black Bears",
+          "region": "Northeast",
+          "primary": "#003263",
+          "secondary": "#B0D7FF",
+          "tertiary": "#908C89",
+          "offenseScheme": "post up",
+          "defenseScheme": "2-3 Zone",
+          "prestige": 42
+        },
+        {
+          "abbreviation": "NJIT",
+          "name": "NJIT",
+          "mascot": "Highlanders",
+          "region": "Mid-Atlantic",
+          "primary": "#D22630",
+          "secondary": "#071D49",
+          "tertiary": "#C1C6C8",
+          "offenseScheme": "pickAndRoll",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 45
+        },
+        {
+          "abbreviation": "BRY",
+          "name": "Bryant",
+          "mascot": "Bulldogs",
+          "region": "Northeast",
+          "primary": "#B4975B",
+          "secondary": "#818286",
+          "tertiary": "#000000",
+          "offenseScheme": "uptempo",
+          "defenseScheme": "Full Court Press",
+          "prestige": 52
+        }
+      ]
+    },
+    {
+      "conferencePrestige" : 80,
+      "name" : "American Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 75,
+      "name" : "Atlantic 10 Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 45,
+      "name" : "Atlantic Sun Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 100,
+      "name" : "Big 12 Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferencePrestige" : 100,
+      "name" : "Big East Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferencePrestige" : 63,
+      "name" : "Big Sky Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 35,
+      "name" : "Big South Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 16,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 100,
+      "name" : "Big Ten Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferencePrestige" : 63,
+      "name" : "Big West Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 55,
+      "name" : "Coastal Athletic Association",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 75,
+      "name" : "Conference USA",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 55,
+      "name" : "Horizon League",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 40,
+      "name" : "Ivy League",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 14,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 30,
+      "name" : "Metro Atlantic Athletic Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 55,
+      "name" : "Mid-American Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 25,
+      "name" : "Mid-Eastern Athletic Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 14,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 75,
+      "name" : "Missouri Valley Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 85,
+      "name" : "Mountain West Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 30,
+      "name" : "NEC",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 40,
+      "name" : "Ohio Valley Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 30,
+      "name" : "Patriot League",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 100,
+      "name" : "Southeastern Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Power"
+    },
+    {
+      "conferencePrestige" : 45,
+      "name" : "Southern Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 30,
+      "name" : "Southland Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 20,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 50,
+      "name" : "Summit League",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 16,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 50,
+      "name" : "Sun Belt Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 25,
+      "name" : "Southwest Athletic Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 45,
+      "name" : "Western Athletic Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    },
+    {
+      "conferencePrestige" : 45,
+      "name" : "West Coast Conference",
+      "protectedPairs" : [
+
+      ],
+      "requiredConferenceGames" : 18,
+      "teams" : [
+        {
+          "abbreviation" : "NT",
+          "defenseScheme" : "Man-to-Man",
+          "mascot" : "Warriors",
+          "name" : "New Team",
+          "offenseScheme" : "motion",
+          "prestige" : 25,
+          "primary" : "#FF0000",
+          "region" : "Midwest",
+          "secondary" : "#FFFFFF",
+          "tertiary" : "#000000"
+        }
+      ],
+      "tier" : "Non-Power"
+    }
+  ]
+}

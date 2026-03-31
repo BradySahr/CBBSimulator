@@ -359,7 +359,7 @@
           "offenseScheme": "motion",
           "prestige": 65,
           "primary": "#046A38",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#B9975B",
           "tertiary": "#272251F"
         },
@@ -371,7 +371,7 @@
           "offenseScheme": "motion",
           "prestige": 55,
           "primary": "#592A8A",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#FDC82F",
           "tertiary": "#FFFFFF"
         },
@@ -383,7 +383,7 @@
           "offenseScheme": "motion",
           "prestige": 70,
           "primary": "#003366",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#CC0000",
           "tertiary": "#8A8D8F"
         },
@@ -395,7 +395,7 @@
           "offenseScheme": "uptempo",
           "prestige": 72,
           "primary": "#003087",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#898D8D",
           "tertiary": "#FFFFFF"
         },
@@ -407,7 +407,7 @@
           "offenseScheme": "motion",
           "prestige": 68,
           "primary": "#00853E",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#000000",
           "tertiary": "#FFFFFF"
         },
@@ -419,7 +419,7 @@
           "offenseScheme": "motion",
           "prestige": 55,
           "primary": "#00205B",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#C1C6C8",
           "tertiary": "#FFFFFF"
         },
@@ -431,7 +431,7 @@
           "offenseScheme": "uptempo",
           "prestige": 88,
           "primary": "#006747",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#CFC493",
           "tertiary": "#FFFFFF"
         },
@@ -443,7 +443,7 @@
           "offenseScheme": "motion",
           "prestige": 65,
           "primary": "#9D2235",
-          "region": "Northeast",
+          "region": "Midwest",
           "secondary": "#000000",
           "tertiary": "#FFFFFF"
         },
@@ -455,7 +455,7 @@
           "offenseScheme": "motion",
           "prestige": 70,
           "primary": "#006747",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#43B02A",
           "tertiary": "#418FDE"
         },
@@ -467,7 +467,7 @@
           "offenseScheme": "uptempo",
           "prestige": 82,
           "primary": "#002D72",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#C8102E",
           "tertiary": "#C5B783"
         },
@@ -479,7 +479,7 @@
           "offenseScheme": "motion",
           "prestige": 72,
           "primary": "#006341",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#CC8A00",
           "tertiary": "#000000"
         },
@@ -491,7 +491,7 @@
           "offenseScheme": "motion",
           "prestige": 45,
           "primary": "#F15A22",
-          "region": "South",
+          "region": "Midwest",
           "secondary": "#0C2340",
           "tertiary": "#FFFFFF"
         },
@@ -1472,7 +1472,7 @@
         },
         {
           "abbreviation": "MSU",
-          "defenseScheme": "Matchup Zone",
+          "defenseScheme": "Matchup",
           "mascot": "Spartans",
           "name": "Michigan State",
           "offenseScheme": "motion",
@@ -1628,7 +1628,7 @@
         },
         {
           "abbreviation": "NW",
-          "defenseScheme": "Matchup Zone",
+          "defenseScheme": "Matchup",
           "mascot": "Wildcats",
           "name": "Northwestern",
           "offenseScheme": "princeton",

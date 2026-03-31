@@ -1041,27 +1041,145 @@
       ]
     },
     {
-      "conferencePrestige" : 100,
-      "name" : "Big East Conference",
-      "protectedPairs" : [
-
-      ],
-      "requiredConferenceGames" : 20,
-      "teams" : [
+      "conferencePrestige": 92,
+      "name": "Big East Conference",
+      "protectedPairs": [],
+      "requiredConferenceGames": 20,
+      "tier": "Power",
+      "teams": [
         {
-          "abbreviation" : "NT",
-          "defenseScheme" : "Man-to-Man",
-          "mascot" : "Warriors",
-          "name" : "New Team",
-          "offenseScheme" : "motion",
-          "prestige" : 25,
-          "primary" : "#FF0000",
-          "region" : "Midwest",
-          "secondary" : "#FFFFFF",
-          "tertiary" : "#000000"
+          "abbreviation": "BUT",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bulldogs",
+          "name": "Butler",
+          "offenseScheme": "motion",
+          "prestige": 85,
+          "primary": "#13294B",
+          "region": "Midwest",
+          "secondary": "#747678",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "UCONN",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Huskies",
+          "name": "Connecticut",
+          "offenseScheme": "motion",
+          "prestige": 98,
+          "primary": "#000E2F",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#E4002B"
+        },
+        {
+          "abbreviation": "CREI",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bluejays",
+          "name": "Creighton",
+          "offenseScheme": "motion",
+          "prestige": 88,
+          "primary": "#005CA9",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#00235D"
+        },
+        {
+          "abbreviation": "DEP",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Blue Demons",
+          "name": "DePaul",
+          "offenseScheme": "pickAndRoll",
+          "prestige": 75,
+          "primary": "#005EB8",
+          "region": "Midwest",
+          "secondary": "#E4002B",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "GTWN",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Hoyas",
+          "name": "Georgetown",
+          "offenseScheme": "motion",
+          "prestige": 85,
+          "primary": "#041E42",
+          "region": "Midwest",
+          "secondary": "#8D817B",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "MARQ",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Golden Eagles",
+          "name": "Marquette",
+          "offenseScheme": "motion",
+          "prestige": 90,
+          "primary": "#003366",
+          "region": "Midwest",
+          "secondary": "#FFCC00",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "PROV",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Friars",
+          "name": "Providence",
+          "offenseScheme": "pickAndRoll",
+          "prestige": 87,
+          "primary": "#8A8D8F",
+          "region": "Midwest",
+          "secondary": "#000000",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "SHU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Pirates",
+          "name": "Seton Hall",
+          "offenseScheme": "motion",
+          "prestige": 86,
+          "primary": "#004488",
+          "region": "Midwest",
+          "secondary": "#A2AAAD",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "SJU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Red Storm",
+          "name": "St. John's (NY)",
+          "offenseScheme": "uptempo",
+          "prestige": 88,
+          "primary": "#BA0C2F",
+          "region": "Midwest",
+          "secondary": "#041C2C",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "NOVA",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Wildcats",
+          "name": "Villanova",
+          "offenseScheme": "motion",
+          "prestige": 95,
+          "primary": "#00205B",
+          "region": "Midwest",
+          "secondary": "#13B5EA",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "XAV",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Musketeers",
+          "name": "Xavier",
+          "offenseScheme": "motion",
+          "prestige": 90,
+          "primary": "#0C2340",
+          "region": "Midwest",
+          "secondary": "#9EA2A2",
+          "tertiary": "#FFFFFF"
         }
-      ],
-      "tier" : "Power"
+      ]
     },
     {
       "conferencePrestige" : 63,

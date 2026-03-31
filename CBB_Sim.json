@@ -373,7 +373,7 @@
           "primary": "#592A8A",
           "region": "South",
           "secondary": "#FDC82F",
-          "tertiary": "#FFFFFFF"
+          "tertiary": "#FFFFFF"
         },
         {
           "abbreviation": "FAU",
@@ -384,7 +384,7 @@
           "prestige": 70,
           "primary": "#003366",
           "region": "South",
-          "secondary": "#CC00000",
+          "secondary": "#CC0000",
           "tertiary": "#8A8D8F"
         },
         {
@@ -1243,7 +1243,7 @@
           "name": "Montana State",
           "offenseScheme": "motion",
           "prestige": 58,
-          "primary": "#0020D5B",
+          "primary": "#00205B",
           "region": "Midwest",
           "secondary": "#B9975B",
           "tertiary": "#FFFFFF"

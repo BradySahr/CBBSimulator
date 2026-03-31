@@ -687,27 +687,157 @@
       ]
     },
     {
-      "conferencePrestige" : 45,
-      "name" : "Atlantic Sun Conference",
-      "protectedPairs" : [
-
-      ],
-      "requiredConferenceGames" : 18,
-      "teams" : [
+      "conferencePrestige": 60,
+      "name": "ASUN Conference",
+      "protectedPairs": [],
+      "requiredConferenceGames": 18,
+      "tier": "Non-Power",
+      "teams": [
         {
-          "abbreviation" : "NT",
-          "defenseScheme" : "Man-to-Man",
-          "mascot" : "Warriors",
-          "name" : "New Team",
-          "offenseScheme" : "motion",
-          "prestige" : 25,
-          "primary" : "#FF0000",
-          "region" : "Midwest",
-          "secondary" : "#FFFFFF",
-          "tertiary" : "#000000"
+          "abbreviation": "APU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Governors",
+          "name": "Austin Peay",
+          "offenseScheme": "motion",
+          "prestige": 75,
+          "primary": "#C41E3A",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#ADAFAA"
+        },
+        {
+          "abbreviation": "BELL",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Knights",
+          "name": "Bellarmine",
+          "offenseScheme": "motion",
+          "prestige": 60,
+          "primary": "#752936",
+          "region": "Midwest",
+          "secondary": "#C8C8C8",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "UCA",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bears",
+          "name": "Central Arkansas",
+          "offenseScheme": "motion",
+          "prestige": 78,
+          "primary": "#4F2D7F",
+          "region": "Midwest",
+          "secondary": "#818A8F",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "EKU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Colonels",
+          "name": "Eastern Kentucky",
+          "offenseScheme": "uptempo",
+          "prestige": 65,
+          "primary": "#8A0039",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "FGCU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Eagles",
+          "name": "Florida Gulf Coast",
+          "offenseScheme": "uptempo",
+          "prestige": 70,
+          "primary": "#002D72",
+          "region": "Midwest",
+          "secondary": "#007749",
+          "tertiary": "#B9975B"
+        },
+        {
+          "abbreviation": "JU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Dolphins",
+          "name": "Jacksonville",
+          "offenseScheme": "motion",
+          "prestige": 62,
+          "primary": "#004E44",
+          "region": "Midwest",
+          "secondary": "#898A8D",
+          "tertiary": "#BBBBBB"
+        },
+        {
+          "abbreviation": "LIP",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bisons",
+          "name": "Lipscomb",
+          "offenseScheme": "motion",
+          "prestige": 72,
+          "primary": "#331E54",
+          "region": "Midwest",
+          "secondary": "#F4AA00",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "UNA",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Lions",
+          "name": "North Alabama",
+          "offenseScheme": "motion",
+          "prestige": 55,
+          "primary": "#46166B",
+          "region": "Midwest",
+          "secondary": "#DB9F11",
+          "tertiary": "#5F6062"
+        },
+        {
+          "abbreviation": "UNF",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Ospreys",
+          "name": "North Florida",
+          "offenseScheme": "motion",
+          "prestige": 50,
+          "primary": "#00246B",
+          "region": "Midwest",
+          "secondary": "#D9D9D9",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "QUE",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Royals",
+          "name": "Queens (NC)",
+          "offenseScheme": "uptempo",
+          "prestige": 78,
+          "primary": "#192C66",
+          "region": "Midwest",
+          "secondary": "#857040",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "STET",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Hatters",
+          "name": "Stetson",
+          "offenseScheme": "motion",
+          "prestige": 58,
+          "primary": "#00523E",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#3B8729"
+        },
+        {
+          "abbreviation": "WG",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Wolves",
+          "name": "West Georgia",
+          "offenseScheme": "motion",
+          "prestige": 60,
+          "primary": "#0656A5",
+          "region": "Midwest",
+          "secondary": "#DA2128",
+          "tertiary": "#FFFFFF"
         }
-      ],
-      "tier" : "Non-Power"
+      ]
     },
     {
       "conferencePrestige" : 100,

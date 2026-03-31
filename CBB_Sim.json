@@ -1490,7 +1490,7 @@
           "offenseScheme": "uptempo",
           "prestige": 99,
           "primary": "#2D68C4",
-          "region": "West",
+          "region": "Midwest",
           "secondary": "#F2A900",
           "tertiary": "#FFFFFF"
         },
@@ -1562,7 +1562,7 @@
           "offenseScheme": "uptempo",
           "prestige": 75,
           "primary": "#154733",
-          "region": "West",
+          "region": "Midwest",
           "secondary": "#FEE123",
           "tertiary": "#FFFFFF"
         },
@@ -1574,7 +1574,7 @@
           "offenseScheme": "uptempo",
           "prestige": 72,
           "primary": "#990000",
-          "region": "West",
+          "region": "Midwest",
           "secondary": "#FFC72C",
           "tertiary": "#000000"
         },
@@ -1586,7 +1586,7 @@
           "offenseScheme": "princeton",
           "prestige": 70,
           "primary": "#4B2E83",
-          "region": "West",
+          "region": "Midwest",
           "secondary": "#B7A57A",
           "tertiary": "#FFFFFF"
         },
@@ -1598,7 +1598,7 @@
           "offenseScheme": "motion",
           "prestige": 69,
           "primary": "#E03A3E",
-          "region": "East",
+          "region": "Midwest",
           "secondary": "#FFD520",
           "tertiary": "#000000"
         },
@@ -1610,7 +1610,7 @@
           "offenseScheme": "pickAndRoll",
           "prestige": 66,
           "primary": "#CC0033",
-          "region": "East",
+          "region": "Midwest",
           "secondary": "#000000",
           "tertiary": "#FFFFFF"
         },
@@ -1646,7 +1646,7 @@
           "offenseScheme": "pickAndRoll",
           "prestige": 58,
           "primary": "#041E42",
-          "region": "East",
+          "region": "Midwest",
           "secondary": "#FFFFFF",
           "tertiary": "#000000"
         }

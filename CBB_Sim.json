@@ -510,27 +510,181 @@
       ]
     },
     {
-      "conferencePrestige" : 75,
-      "name" : "Atlantic 10 Conference",
-      "protectedPairs" : [
-
-      ],
-      "requiredConferenceGames" : 18,
-      "teams" : [
+      "conferencePrestige": 68,
+      "name": "Atlantic 10 Conference",
+      "protectedPairs": [],
+      "requiredConferenceGames": 18,
+      "tier": "Non-Power",
+      "teams": [
         {
-          "abbreviation" : "NT",
-          "defenseScheme" : "Man-to-Man",
-          "mascot" : "Warriors",
-          "name" : "New Team",
-          "offenseScheme" : "motion",
-          "prestige" : 25,
-          "primary" : "#FF0000",
-          "region" : "Midwest",
-          "secondary" : "#FFFFFF",
-          "tertiary" : "#000000"
+          "abbreviation": "DAV",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Wildcats",
+          "name": "Davidson",
+          "offenseScheme": "motion",
+          "prestige": 72,
+          "primary": "#AC1A2F",
+          "region": "Midwest",
+          "secondary": "#000000",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "DAY",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Flyers",
+          "name": "Dayton",
+          "offenseScheme": "motion",
+          "prestige": 80,
+          "primary": "#CE1141",
+          "region": "Midwest",
+          "secondary": "#004B8D",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "DUQ",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Dukes",
+          "name": "Duquesne",
+          "offenseScheme": "motion",
+          "prestige": 68,
+          "primary": "#041E42",
+          "region": "Midwest",
+          "secondary": "#BA0C2F",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "FOR",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Rams",
+          "name": "Fordham",
+          "offenseScheme": "motion",
+          "prestige": 65,
+          "primary": "#860038",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "GMU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Patriots",
+          "name": "George Mason",
+          "offenseScheme": "pickAndRoll",
+          "prestige": 70,
+          "primary": "#006633",
+          "region": "Midwest",
+          "secondary": "#FFCC33",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "GW",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Revolutionaries",
+          "name": "George Washington",
+          "offenseScheme": "motion",
+          "prestige": 68,
+          "primary": "#006633",
+          "region": "Midwest",
+          "secondary": "#FFCC33",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "LAS",
+          "defenseScheme": "2-3 Zone",
+          "mascot": "Explorers",
+          "name": "La Salle",
+          "offenseScheme": "motion",
+          "prestige": 60,
+          "primary": "#FFCC00",
+          "region": "Midwest",
+          "secondary": "#003366",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "LOY",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Ramblers",
+          "name": "Loyola Chicago",
+          "offenseScheme": "motion",
+          "prestige": 75,
+          "primary": "#922247",
+          "region": "Midwest",
+          "secondary": "#FEBD18",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "RI",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Rams",
+          "name": "Rhode Island",
+          "offenseScheme": "motion",
+          "prestige": 72,
+          "primary": "#68ABE8",
+          "region": "Midwest",
+          "secondary": "#002147",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "RIC",
+          "defenseScheme": "Matchup",
+          "mascot": "Spiders",
+          "name": "Richmond",
+          "offenseScheme": "motion",
+          "prestige": 74,
+          "primary": "#000066",
+          "region": "Midwest",
+          "secondary": "#990000",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "SJO",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Hawks",
+          "name": "Saint Joseph's",
+          "offenseScheme": "motion",
+          "prestige": 78,
+          "primary": "#9E1B32",
+          "region": "Midwest",
+          "secondary": "#A7A8AA",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "SLU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Billikens",
+          "name": "Saint Louis",
+          "offenseScheme": "pickAndRoll",
+          "prestige": 85,
+          "primary": "#003DA5",
+          "region": "Midwest",
+          "secondary": "#C8C9C7",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "SBU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bonnies",
+          "name": "St. Bonaventure",
+          "offenseScheme": "motion",
+          "prestige": 70,
+          "primary": "#54261A",
+          "region": "Midwest",
+          "secondary": "#FDB726",
+          "tertiary": "#BDB6B0"
+        },
+        {
+          "abbreviation": "VCU",
+          "defenseScheme": "Full Court Press",
+          "mascot": "Rams",
+          "name": "Virginia Commonwealth",
+          "offenseScheme": "uptempo",
+          "prestige": 88,
+          "primary": "#FFB300",
+          "region": "Midwest",
+          "secondary": "#000000",
+          "tertiary": "#FFFFFF"
         }
-      ],
-      "tier" : "Non-Power"
+      ]
     },
     {
       "conferencePrestige" : 45,

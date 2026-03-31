@@ -1182,50 +1182,250 @@
       ]
     },
     {
-      "conferencePrestige" : 63,
-      "name" : "Big Sky Conference",
-      "protectedPairs" : [
-
-      ],
-      "requiredConferenceGames" : 18,
-      "teams" : [
+      "conferencePrestige": 60,
+      "name": "Big Sky Conference",
+      "protectedPairs": [],
+      "requiredConferenceGames": 18,
+      "tier": "Non-Power",
+      "teams": [
         {
-          "abbreviation" : "NT",
-          "defenseScheme" : "Man-to-Man",
-          "mascot" : "Warriors",
-          "name" : "New Team",
-          "offenseScheme" : "motion",
-          "prestige" : 25,
-          "primary" : "#FF0000",
-          "region" : "Midwest",
-          "secondary" : "#FFFFFF",
-          "tertiary" : "#000000"
+          "abbreviation": "EWU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Eagles",
+          "name": "Eastern Washington",
+          "offenseScheme": "uptempo",
+          "prestige": 75,
+          "primary": "#A10022",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "IDHO",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Vandals",
+          "name": "Idaho",
+          "offenseScheme": "motion",
+          "prestige": 68,
+          "primary": "#B3A369",
+          "region": "Midwest",
+          "secondary": "#EAAB00",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "ISU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bengals",
+          "name": "Idaho State",
+          "offenseScheme": "motion",
+          "prestige": 65,
+          "primary": "#FF671F",
+          "region": "Midwest",
+          "secondary": "#000000",
+          "tertiary": "#F9A81A"
+        },
+        {
+          "abbreviation": "MONT",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Grizzlies",
+          "name": "Montana",
+          "offenseScheme": "motion",
+          "prestige": 78,
+          "primary": "#660033",
+          "region": "Midwest",
+          "secondary": "#999999",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "MTST",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bobcats",
+          "name": "Montana State",
+          "offenseScheme": "motion",
+          "prestige": 80,
+          "primary": "#0020D5B",
+          "region": "Midwest",
+          "secondary": "#B9975B",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "NAU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Lumberjacks",
+          "name": "Northern Arizona",
+          "offenseScheme": "uptempo",
+          "prestige": 66,
+          "primary": "#003466",
+          "region": "Midwest",
+          "secondary": "#FFD200",
+          "tertiary": "#FBB040"
+        },
+        {
+          "abbreviation": "UNC",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bears",
+          "name": "Northern Colorado",
+          "offenseScheme": "motion",
+          "prestige": 70,
+          "primary": "#013C65",
+          "region": "Midwest",
+          "secondary": "#F6B000",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "PSU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Vikings",
+          "name": "Portland State",
+          "offenseScheme": "uptempo",
+          "prestige": 68,
+          "primary": "#154734",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#A5ACAF"
+        },
+        {
+          "abbreviation": "SAC",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Hornets",
+          "name": "Sacramento State",
+          "offenseScheme": "motion",
+          "prestige": 67,
+          "primary": "#043927",
+          "region": "Midwest",
+          "secondary": "#C4B581",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "WEB",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Wildcats",
+          "name": "Weber State",
+          "offenseScheme": "motion",
+          "prestige": 82,
+          "primary": "#4B2E83",
+          "region": "Midwest",
+          "secondary": "#A1A1A4",
+          "tertiary": "#130C0E"
         }
-      ],
-      "tier" : "Non-Power"
+      ]
     },
     {
-      "conferencePrestige" : 35,
-      "name" : "Big South Conference",
-      "protectedPairs" : [
-
-      ],
-      "requiredConferenceGames" : 16,
-      "teams" : [
+      "conferencePrestige": 58,
+      "name": "Big South Conference",
+      "protectedPairs": [],
+      "requiredConferenceGames": 18,
+      "tier": "Non-Power",
+      "teams": [
         {
-          "abbreviation" : "NT",
-          "defenseScheme" : "Man-to-Man",
-          "mascot" : "Warriors",
-          "name" : "New Team",
-          "offenseScheme" : "motion",
-          "prestige" : 25,
-          "primary" : "#FF0000",
-          "region" : "Midwest",
-          "secondary" : "#FFFFFF",
-          "tertiary" : "#000000"
+          "abbreviation": "HPU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Panthers",
+          "name": "High Point",
+          "offenseScheme": "motion",
+          "prestige": 70,
+          "primary": "#330072",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000"
+        },
+        {
+          "abbreviation": "WIN",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Eagles",
+          "name": "Winthrop",
+          "offenseScheme": "uptempo",
+          "prestige": 75,
+          "primary": "#660000",
+          "region": "Midwest",
+          "secondary": "#F0B323",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "RAD",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Highlanders",
+          "name": "Radford",
+          "offenseScheme": "motion",
+          "prestige": 68,
+          "primary": "#C2011B",
+          "region": "Midwest",
+          "secondary": "#D1D3D4",
+          "tertiary": "#003C71"
+        },
+        {
+          "abbreviation": "LONG",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Lancers",
+          "name": "Longwood",
+          "offenseScheme": "motion",
+          "prestige": 72,
+          "primary": "#15213B",
+          "region": "Midwest",
+          "secondary": "#999D9E",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "UNCA",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Bulldogs",
+          "name": "UNC Asheville",
+          "offenseScheme": "motion",
+          "prestige": 74,
+          "primary": "#003DA5",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#808285"
+        },
+        {
+          "abbreviation": "PRES",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Blue Hose",
+          "name": "Presbyterian",
+          "offenseScheme": "motion",
+          "prestige": 60,
+          "primary": "#0060A9",
+          "region": "Midwest",
+          "secondary": "#9D2235",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "CHSO",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Buccaneers",
+          "name": "Charleston Southern",
+          "offenseScheme": "motion",
+          "prestige": 62,
+          "primary": "#A8996E",
+          "region": "Midwest",
+          "secondary": "#002855",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "USCU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Spartans",
+          "name": "South Carolina Upstate",
+          "offenseScheme": "motion",
+          "prestige": 58,
+          "primary": "#00703C",
+          "region": "Midwest",
+          "secondary": "#000000",
+          "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "GWU",
+          "defenseScheme": "Man-to-Man",
+          "mascot": "Runnin' Bulldogs",
+          "name": "Gardner-Webb",
+          "offenseScheme": "motion",
+          "prestige": 68,
+          "primary": "#BF2F37",
+          "region": "Midwest",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000"
         }
-      ],
-      "tier" : "Non-Power"
+      ]
     },
     {
       "conferencePrestige" : 100,
